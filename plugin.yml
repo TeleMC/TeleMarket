@@ -1,0 +1,15 @@
+name: TeleMarket
+main: TeleMarket\TeleMarket
+author: TeleMC
+version: 1.0.0
+api:
+  - 3.2.0
+  - 3.3.0
+  - 4.0.0
+commands:
+  상점생성:
+    description: 상점 생성관련 명령어입니다.
+  구매가:
+    description: 구매가 관련 명령어입니다.
+  판매가:
+    description: 판매가 관련 명령어입니다.
